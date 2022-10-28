@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="db-api">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/data/db-api.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
